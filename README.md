@@ -45,6 +45,10 @@ This project showcases end-to-end BI workflow — from raw dataset to a polished
 - **Uttar Pradesh** – Moderate sales
 - **Delhi** – Lowest sales
 
+# 2 Quaterly Sale Dehli
+
+![Q_DehliSales](https://github.com/HafiHaroon/Ecommerce-Sales/blob/main/Q_DehliSales.PNG)
+
 ### By Customer Name
 - Harivansh – 9.9K
 - Madhav – 9.4K
