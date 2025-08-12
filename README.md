@@ -99,8 +99,7 @@ This project showcases end-to-end BI workflow — from raw dataset to a polished
 ## ✨ Author
 **Haroon Irshad**  
 📧 Email: hafizharoonirshad@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
+🔗 LinkedIn: https://www.linkedin.com/in/haroon-irshad-0793261a6/
 ## 📽 Project Demo
 You can watch the full tutorial/project video here: [YouTube Link](https://www.youtube.com/watch?v=6cV3OwFrOkk&t=2s)
 
