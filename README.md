@@ -5,21 +5,21 @@ The dashboard delivers actionable insights by analyzing data across multiple dim
 
 # The project demonstrates skills in:
 
-Data Cleaning & Transformation using Power Query
+- Data Cleaning & Transformation using Power Query
 
-Data Modeling & KPI Creation using DAX
+- Data Modeling & KPI Creation using DAX
 
-Interactive Visualization with slicers, charts, and dynamic measures
+- Interactive Visualization with slicers, charts, and dynamic measures
 
-With this dashboard, stakeholders can:
+- With this dashboard, stakeholders can:
 
-Identify top-performing states and customers
+- Identify top-performing states and customers
 
-Track seasonal sales patterns and detect loss periods
+- Track seasonal sales patterns and detect loss periods
 
-Understand category-level performance and market demand
+- Understand category-level performance and market demand
 
-Make data-driven decisions to boost profitability
+- Make data-driven decisions to boost profitability
 
 This project showcases end-to-end BI workflow — from raw dataset to a polished, insight-rich dashboard — suitable for business managers, data analysts, and decision-makers in the ecommerce industry.
 
