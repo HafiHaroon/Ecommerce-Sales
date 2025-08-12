@@ -99,7 +99,10 @@ This project showcases end-to-end BI workflow — from raw dataset to a polished
 - July recorded losses, requiring further investigation into seasonal or operational factors.
 
 ---
+# Bihar Sales
+![3Q_BiharSales](https://github.com/HafiHaroon/Ecommerce-Sales/blob/main/3Q_BiharSales.PNG)
 
+---
 ## ✨ Author
 **Haroon Irshad**  
 📧 Email: hafizharoonirshad@gmail.com  
