@@ -25,7 +25,7 @@ This project showcases end-to-end BI workflow — from raw dataset to a polished
 
 ---
 ## 📸 Dashboard Preview
-![Ecommerce Dashboard](https://github.com/your-username/your-repo-name/blob/main/ecommerce%20sale.png)
+![Ecommerce](https://github.com/HafiHaroon/Ecommerce-Sales/blob/main/ecommerce%20sale.png)
 
 ---
 
